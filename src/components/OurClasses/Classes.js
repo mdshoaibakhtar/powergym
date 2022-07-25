@@ -15,11 +15,11 @@ const Classes = ({ text }) => {
         OUR <span>CLASSES</span>
       </h2>
       <Icon />
-      <p>
+      {/* <p>
         Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra
         <br />
         ipsum dolor, ultricies fermentum massa consequat eu.
-      </p>
+      </p> */}
       <Container>
         <LinksContainer setTraining={setTraining} training={training} />
         <Results training={training} />

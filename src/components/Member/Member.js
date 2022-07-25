@@ -10,9 +10,8 @@ const Member = ({ text }) => (
       DON’T <span>THINK</span>, BEGIN <span>TODAY</span>!
     </h2>
     <p>
-      Ut consectetur, metus sit amet aliquet placerat, enim est ultricies
-      ligula, sit amet dapibus odio augue eget libero.
-      <br /> Morbi tempus mauris a nisi luctus imperdiet.
+      If Want To Be Successfull In Your Life Then You Should Maintain Your Health By Doing Excercise Daily With Personal Trainers.
+      <br /> Contact Us For More Details
     </p>
     <Button text="BECOME A MEMBER" />
   </section>

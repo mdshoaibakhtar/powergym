@@ -11,31 +11,31 @@ const GymProgram = () => (
   <div css={styles} className="gymProgram">
     <GymTitle />
     <Icon />
-    <GymSubtitle />
+    {/* <GymSubtitle /> */}
     <Container>
       <GymProgramCard
         title="Basic Fitness"
-        desc="Please do not re-distribute this template ZIP file on any template collection website. This is not allowed."
+        desc="You Can Do Your Daily Excercise, With Personal Trainers, Who Help You To Do The Excercise."
       />
       <GymProgramCard
         title="Advanced Muscle Course"
-        desc="You may want to browse through Digital Marketing or Corporate HTML CSS templates on our website."
+        desc="We Offer Advanced Course For You, In This Muscle Course We Offer Different Different Training's With Our Professional"
       />
       <GymProgramCard
         title="New Gym Training"
-        desc="If you wish to support TemplateMo website via PayPal, please feel free to contact us. We appreciate it a lot."
+        desc="If You Wish To Take Admission In Our Gym And Want To Be A Part Of This Gym Then Feel Free To Contact."
       />
       <GymProgramCard
         title="Yoga Training"
-        desc="This template is built on Bootstrap v4.3.1 framework. It is easy to adapt the columns and sections."
+        desc="In Our Gym We Also Provides Yoga Training Which Is Most Popular now A Day, Register To Get The Info."
       />
       <GymProgramCard
         title="Basic Muscle Course"
-        desc="Credit goes to Pexels website for images and video background used in this HTML template."
+        desc="You can Do Only Basic Things With Our Trainers Which is Free Of Cost, If You Want To Be The Memeber Of Our Gym, Please Conrtact Us."
       />
       <GymProgramCard
         title="Body Building Course"
-        desc="Suspendisse fringilla et nisi et mattis. Curabitur sed finibus nisi. Integer nibh sapien, vehicula et auctor."
+        desc="If You Are Very Passionate About Your Body And Want To Be Professional In This Field Then You Should Contact Us."
       />
     </Container>
   </div>
